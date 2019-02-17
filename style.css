@@ -1,0 +1,34 @@
+body {
+  background-color: #111100;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  background-color: black;
+  margin: 30px 50px;
+  font-size: 50px;
+  padding: 5px 5px 5px 5px;
+}
+
+button {
+   margin: 0% 20% 2% 20%;
+font-size: 30px;
+cursor: pointer;
+  padding: 2px 5px;
+  font-family: Verdana;
+}
+
+button.fa {
+  font-size: 30px;
+}
+
+div.quotebox {
+   margin: 0% 20% 0% 20%;
+  background-color: #AAAAAA;
+    padding: 5px 10px;
+  font-size: 25px;
+  font-family: helvetica;
+  color: #991111;
+  border: 6px solid #1F9FF1;
+}

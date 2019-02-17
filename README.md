@@ -1,2 +1,2 @@
 # random_quote_generator
-Generate random quote and tweet.
+A simple webpage to generate and tweet random quotes.
